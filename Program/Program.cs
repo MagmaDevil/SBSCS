@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Stat stat = new Stat();
+            //Stat stat = new Stat();
 
             #region 가비지 컬렉터
 
@@ -13,12 +13,37 @@
 
             #endregion
 
-            stat.Wisdom = 5;
-            stat.Strength = 5;
-            stat.Dexterity = 10;
-            stat.Intelligence = 15;
+            //stat.Wisdom = 5;
+            //stat.Strength = 5;
+            //stat.Dexterity = 10;
+            //stat.Intelligence = 15;
+            //
+            //stat.Describe();
 
-            stat.Describe();
+            #region 추상 클래스
+
+            Item[] item = new Item[3];
+
+            item[0] = new Knife();
+            item[1] = new Potion();
+            item[2] = new Charcoal();
+
+            int count = 0;
+
+            while (true)
+            {
+                ConsoleKeyInfo consolekeyInfo = Console.ReadKey(true);
+
+                if (consolekeyInfo.Key == ConsoleKey.Spacebar)
+                {
+                    item[count].Activate();
+
+                    count = (count + 1) % item.Length;
+
+                }
+            }
+
+            #endregion
         }
     }
 }

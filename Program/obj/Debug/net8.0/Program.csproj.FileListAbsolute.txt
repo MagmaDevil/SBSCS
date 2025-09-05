@@ -13,3 +13,18 @@ C:\Users\Administrator\Desktop\sbs-c--\SBS-C# LSJ\Program\obj\Debug\net8.0\refin
 C:\Users\Administrator\Desktop\sbs-c--\SBS-C# LSJ\Program\obj\Debug\net8.0\Program.pdb
 C:\Users\Administrator\Desktop\sbs-c--\SBS-C# LSJ\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\sbs-c--\SBS-C# LSJ\Program\obj\Debug\net8.0\ref\Program.dll
+C:\Users\USERK\Desktop\SBSCS\Program\bin\Debug\net8.0\Program.exe
+C:\Users\USERK\Desktop\SBSCS\Program\bin\Debug\net8.0\Program.deps.json
+C:\Users\USERK\Desktop\SBSCS\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\USERK\Desktop\SBSCS\Program\bin\Debug\net8.0\Program.dll
+C:\Users\USERK\Desktop\SBSCS\Program\bin\Debug\net8.0\Program.pdb
+C:\Users\USERK\Desktop\SBSCS\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USERK\Desktop\SBSCS\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\USERK\Desktop\SBSCS\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\USERK\Desktop\SBSCS\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\USERK\Desktop\SBSCS\Program\obj\Debug\net8.0\Program.sourcelink.json
+C:\Users\USERK\Desktop\SBSCS\Program\obj\Debug\net8.0\Program.dll
+C:\Users\USERK\Desktop\SBSCS\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Users\USERK\Desktop\SBSCS\Program\obj\Debug\net8.0\Program.pdb
+C:\Users\USERK\Desktop\SBSCS\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\USERK\Desktop\SBSCS\Program\obj\Debug\net8.0\ref\Program.dll
